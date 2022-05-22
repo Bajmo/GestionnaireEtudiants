@@ -1,3 +1,3 @@
 # GestionnaireEtudiants
 
-This was an old mini-project in which I was supposed to create a simple console app in C to manage students.
+This is a C mini-project for which the goal was to create a simple console app to manage students.
